@@ -41,7 +41,10 @@ Highlighted key factors influencing customer churn
 
 🔍 Key Insights
 
-Customers with shorter tenure show higher churn rates
-Month-to-month contracts are more likely to churn
-Higher monthly charges are associated with increased churn
-Long-term contracts improve customer retention
+Customers with shorter tenure show higher churn rates. 
+
+Month-to-month contracts are more likely churn rates. 
+
+Higher monthly charges are associated with increased churn. 
+
+Long-term contracts improve customer retention. 
